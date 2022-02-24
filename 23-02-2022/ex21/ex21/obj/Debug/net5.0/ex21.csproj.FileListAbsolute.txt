@@ -1,0 +1,16 @@
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\23-02-2022\ex21\ex21\bin\Debug\net5.0\ex21.exe
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\23-02-2022\ex21\ex21\bin\Debug\net5.0\ex21.deps.json
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\23-02-2022\ex21\ex21\bin\Debug\net5.0\ex21.runtimeconfig.json
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\23-02-2022\ex21\ex21\bin\Debug\net5.0\ex21.runtimeconfig.dev.json
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\23-02-2022\ex21\ex21\bin\Debug\net5.0\ex21.dll
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\23-02-2022\ex21\ex21\bin\Debug\net5.0\ex21.pdb
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\23-02-2022\ex21\ex21\obj\Debug\net5.0\ex21.csproj.AssemblyReference.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\23-02-2022\ex21\ex21\obj\Debug\net5.0\ex21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\23-02-2022\ex21\ex21\obj\Debug\net5.0\ex21.AssemblyInfoInputs.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\23-02-2022\ex21\ex21\obj\Debug\net5.0\ex21.AssemblyInfo.cs
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\23-02-2022\ex21\ex21\obj\Debug\net5.0\ex21.csproj.CoreCompileInputs.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\23-02-2022\ex21\ex21\obj\Debug\net5.0\ex21.dll
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\23-02-2022\ex21\ex21\obj\Debug\net5.0\refint\ex21.dll
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\23-02-2022\ex21\ex21\obj\Debug\net5.0\ex21.pdb
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\23-02-2022\ex21\ex21\obj\Debug\net5.0\ex21.genruntimeconfig.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\23-02-2022\ex21\ex21\obj\Debug\net5.0\ref\ex21.dll
