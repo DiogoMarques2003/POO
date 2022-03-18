@@ -1,0 +1,16 @@
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-03-2022\ficha-estruturas-repetitivas\ex2\ex2\bin\Debug\net5.0\ex2.exe
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-03-2022\ficha-estruturas-repetitivas\ex2\ex2\bin\Debug\net5.0\ex2.deps.json
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-03-2022\ficha-estruturas-repetitivas\ex2\ex2\bin\Debug\net5.0\ex2.runtimeconfig.json
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-03-2022\ficha-estruturas-repetitivas\ex2\ex2\bin\Debug\net5.0\ex2.runtimeconfig.dev.json
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-03-2022\ficha-estruturas-repetitivas\ex2\ex2\bin\Debug\net5.0\ex2.dll
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-03-2022\ficha-estruturas-repetitivas\ex2\ex2\bin\Debug\net5.0\ex2.pdb
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-03-2022\ficha-estruturas-repetitivas\ex2\ex2\obj\Debug\net5.0\ex2.csproj.AssemblyReference.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-03-2022\ficha-estruturas-repetitivas\ex2\ex2\obj\Debug\net5.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-03-2022\ficha-estruturas-repetitivas\ex2\ex2\obj\Debug\net5.0\ex2.AssemblyInfoInputs.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-03-2022\ficha-estruturas-repetitivas\ex2\ex2\obj\Debug\net5.0\ex2.AssemblyInfo.cs
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-03-2022\ficha-estruturas-repetitivas\ex2\ex2\obj\Debug\net5.0\ex2.csproj.CoreCompileInputs.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-03-2022\ficha-estruturas-repetitivas\ex2\ex2\obj\Debug\net5.0\ex2.dll
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-03-2022\ficha-estruturas-repetitivas\ex2\ex2\obj\Debug\net5.0\refint\ex2.dll
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-03-2022\ficha-estruturas-repetitivas\ex2\ex2\obj\Debug\net5.0\ex2.pdb
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-03-2022\ficha-estruturas-repetitivas\ex2\ex2\obj\Debug\net5.0\ex2.genruntimeconfig.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-03-2022\ficha-estruturas-repetitivas\ex2\ex2\obj\Debug\net5.0\ref\ex2.dll
