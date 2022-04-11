@@ -1,0 +1,11 @@
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\11-04-2022\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\11-04-2022\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\11-04-2022\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\11-04-2022\calculadora\calculadora\obj\Debug\calculadora.csproj.AssemblyReference.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\11-04-2022\calculadora\calculadora\obj\Debug\calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\11-04-2022\calculadora\calculadora\obj\Debug\calculadora.Form1.resources
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\11-04-2022\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\11-04-2022\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\11-04-2022\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\11-04-2022\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\11-04-2022\calculadora\calculadora\obj\Debug\calculadora.pdb
