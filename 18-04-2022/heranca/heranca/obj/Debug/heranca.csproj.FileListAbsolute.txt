@@ -1,0 +1,11 @@
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\heranca\heranca\bin\Debug\heranca.exe.config
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\heranca\heranca\bin\Debug\heranca.exe
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\heranca\heranca\bin\Debug\heranca.pdb
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\heranca\heranca\obj\Debug\heranca.csproj.AssemblyReference.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\heranca\heranca\obj\Debug\heranca.csproj.SuggestedBindingRedirects.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\heranca\heranca\obj\Debug\heranca.Form1.resources
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\heranca\heranca\obj\Debug\heranca.Properties.Resources.resources
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\heranca\heranca\obj\Debug\heranca.csproj.GenerateResource.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\heranca\heranca\obj\Debug\heranca.csproj.CoreCompileInputs.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\heranca\heranca\obj\Debug\heranca.exe
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\heranca\heranca\obj\Debug\heranca.pdb

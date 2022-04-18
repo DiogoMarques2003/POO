@@ -1,0 +1,11 @@
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Libros\Libros\bin\Debug\Libros.exe.config
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Libros\Libros\bin\Debug\Libros.exe
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Libros\Libros\bin\Debug\Libros.pdb
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Libros\Libros\obj\Debug\Libros.csproj.AssemblyReference.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Libros\Libros\obj\Debug\Libros.csproj.SuggestedBindingRedirects.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Libros\Libros\obj\Debug\Libros.Form1.resources
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Libros\Libros\obj\Debug\Libros.Properties.Resources.resources
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Libros\Libros\obj\Debug\Libros.csproj.GenerateResource.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Libros\Libros\obj\Debug\Libros.csproj.CoreCompileInputs.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Libros\Libros\obj\Debug\Libros.exe
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Libros\Libros\obj\Debug\Libros.pdb

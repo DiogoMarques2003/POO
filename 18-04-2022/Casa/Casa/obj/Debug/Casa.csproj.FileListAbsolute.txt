@@ -1,0 +1,11 @@
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Casa\Casa\bin\Debug\Casa.exe.config
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Casa\Casa\bin\Debug\Casa.exe
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Casa\Casa\bin\Debug\Casa.pdb
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Casa\Casa\obj\Debug\Casa.csproj.AssemblyReference.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Casa\Casa\obj\Debug\Casa.csproj.SuggestedBindingRedirects.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Casa\Casa\obj\Debug\Casa.Form1.resources
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Casa\Casa\obj\Debug\Casa.Properties.Resources.resources
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Casa\Casa\obj\Debug\Casa.csproj.GenerateResource.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Casa\Casa\obj\Debug\Casa.csproj.CoreCompileInputs.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Casa\Casa\obj\Debug\Casa.exe
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Casa\Casa\obj\Debug\Casa.pdb

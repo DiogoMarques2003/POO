@@ -1,0 +1,11 @@
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Carros\Carros\bin\Debug\Carros.exe.config
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Carros\Carros\bin\Debug\Carros.exe
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Carros\Carros\bin\Debug\Carros.pdb
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Carros\Carros\obj\Debug\Carros.csproj.AssemblyReference.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Carros\Carros\obj\Debug\Carros.csproj.SuggestedBindingRedirects.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Carros\Carros\obj\Debug\Carros.Form1.resources
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Carros\Carros\obj\Debug\Carros.Properties.Resources.resources
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Carros\Carros\obj\Debug\Carros.csproj.GenerateResource.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Carros\Carros\obj\Debug\Carros.csproj.CoreCompileInputs.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Carros\Carros\obj\Debug\Carros.exe
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\18-04-2022\Carros\Carros\obj\Debug\Carros.pdb
