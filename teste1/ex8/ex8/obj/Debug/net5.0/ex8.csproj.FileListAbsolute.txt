@@ -1,0 +1,16 @@
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\teste1\ex8\ex8\bin\Debug\net5.0\ex8.exe
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\teste1\ex8\ex8\bin\Debug\net5.0\ex8.deps.json
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\teste1\ex8\ex8\bin\Debug\net5.0\ex8.runtimeconfig.json
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\teste1\ex8\ex8\bin\Debug\net5.0\ex8.runtimeconfig.dev.json
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\teste1\ex8\ex8\bin\Debug\net5.0\ex8.dll
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\teste1\ex8\ex8\bin\Debug\net5.0\ex8.pdb
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\teste1\ex8\ex8\obj\Debug\net5.0\ex8.csproj.AssemblyReference.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\teste1\ex8\ex8\obj\Debug\net5.0\ex8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\teste1\ex8\ex8\obj\Debug\net5.0\ex8.AssemblyInfoInputs.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\teste1\ex8\ex8\obj\Debug\net5.0\ex8.AssemblyInfo.cs
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\teste1\ex8\ex8\obj\Debug\net5.0\ex8.csproj.CoreCompileInputs.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\teste1\ex8\ex8\obj\Debug\net5.0\ex8.dll
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\teste1\ex8\ex8\obj\Debug\net5.0\refint\ex8.dll
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\teste1\ex8\ex8\obj\Debug\net5.0\ex8.pdb
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\teste1\ex8\ex8\obj\Debug\net5.0\ex8.genruntimeconfig.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\teste1\ex8\ex8\obj\Debug\net5.0\ref\ex8.dll
