@@ -1,0 +1,16 @@
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex5\ex5\bin\Debug\net5.0\ex5.exe
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex5\ex5\bin\Debug\net5.0\ex5.deps.json
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex5\ex5\bin\Debug\net5.0\ex5.runtimeconfig.json
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex5\ex5\bin\Debug\net5.0\ex5.runtimeconfig.dev.json
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex5\ex5\bin\Debug\net5.0\ex5.dll
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex5\ex5\bin\Debug\net5.0\ex5.pdb
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex5\ex5\obj\Debug\net5.0\ex5.csproj.AssemblyReference.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex5\ex5\obj\Debug\net5.0\ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex5\ex5\obj\Debug\net5.0\ex5.AssemblyInfoInputs.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex5\ex5\obj\Debug\net5.0\ex5.AssemblyInfo.cs
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex5\ex5\obj\Debug\net5.0\ex5.csproj.CoreCompileInputs.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex5\ex5\obj\Debug\net5.0\ex5.dll
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex5\ex5\obj\Debug\net5.0\refint\ex5.dll
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex5\ex5\obj\Debug\net5.0\ex5.pdb
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex5\ex5\obj\Debug\net5.0\ex5.genruntimeconfig.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex5\ex5\obj\Debug\net5.0\ref\ex5.dll

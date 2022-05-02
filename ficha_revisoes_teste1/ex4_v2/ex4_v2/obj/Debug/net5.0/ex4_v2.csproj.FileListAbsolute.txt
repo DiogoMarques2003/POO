@@ -1,0 +1,16 @@
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex4_v2\ex4_v2\obj\Debug\net5.0\ex4_v2.csproj.AssemblyReference.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex4_v2\ex4_v2\obj\Debug\net5.0\ex4_v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex4_v2\ex4_v2\obj\Debug\net5.0\ex4_v2.AssemblyInfoInputs.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex4_v2\ex4_v2\obj\Debug\net5.0\ex4_v2.AssemblyInfo.cs
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex4_v2\ex4_v2\obj\Debug\net5.0\ex4_v2.csproj.CoreCompileInputs.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex4_v2\ex4_v2\bin\Debug\net5.0\ex4_v2.exe
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex4_v2\ex4_v2\bin\Debug\net5.0\ex4_v2.deps.json
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex4_v2\ex4_v2\bin\Debug\net5.0\ex4_v2.runtimeconfig.json
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex4_v2\ex4_v2\bin\Debug\net5.0\ex4_v2.runtimeconfig.dev.json
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex4_v2\ex4_v2\bin\Debug\net5.0\ex4_v2.dll
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex4_v2\ex4_v2\bin\Debug\net5.0\ex4_v2.pdb
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex4_v2\ex4_v2\obj\Debug\net5.0\ex4_v2.dll
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex4_v2\ex4_v2\obj\Debug\net5.0\refint\ex4_v2.dll
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex4_v2\ex4_v2\obj\Debug\net5.0\ex4_v2.pdb
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex4_v2\ex4_v2\obj\Debug\net5.0\ex4_v2.genruntimeconfig.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\ficha_revisoes_teste1\ex4_v2\ex4_v2\obj\Debug\net5.0\ref\ex4_v2.dll
