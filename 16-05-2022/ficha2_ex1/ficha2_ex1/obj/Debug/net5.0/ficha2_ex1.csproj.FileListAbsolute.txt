@@ -1,0 +1,16 @@
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\16-05-2022\ficha2_ex1\ficha2_ex1\bin\Debug\net5.0\ficha2_ex1.exe
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\16-05-2022\ficha2_ex1\ficha2_ex1\bin\Debug\net5.0\ficha2_ex1.deps.json
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\16-05-2022\ficha2_ex1\ficha2_ex1\bin\Debug\net5.0\ficha2_ex1.runtimeconfig.json
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\16-05-2022\ficha2_ex1\ficha2_ex1\bin\Debug\net5.0\ficha2_ex1.runtimeconfig.dev.json
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\16-05-2022\ficha2_ex1\ficha2_ex1\bin\Debug\net5.0\ficha2_ex1.dll
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\16-05-2022\ficha2_ex1\ficha2_ex1\bin\Debug\net5.0\ficha2_ex1.pdb
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\16-05-2022\ficha2_ex1\ficha2_ex1\obj\Debug\net5.0\ficha2_ex1.csproj.AssemblyReference.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\16-05-2022\ficha2_ex1\ficha2_ex1\obj\Debug\net5.0\ficha2_ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\16-05-2022\ficha2_ex1\ficha2_ex1\obj\Debug\net5.0\ficha2_ex1.AssemblyInfoInputs.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\16-05-2022\ficha2_ex1\ficha2_ex1\obj\Debug\net5.0\ficha2_ex1.AssemblyInfo.cs
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\16-05-2022\ficha2_ex1\ficha2_ex1\obj\Debug\net5.0\ficha2_ex1.csproj.CoreCompileInputs.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\16-05-2022\ficha2_ex1\ficha2_ex1\obj\Debug\net5.0\ficha2_ex1.dll
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\16-05-2022\ficha2_ex1\ficha2_ex1\obj\Debug\net5.0\refint\ficha2_ex1.dll
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\16-05-2022\ficha2_ex1\ficha2_ex1\obj\Debug\net5.0\ficha2_ex1.pdb
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\16-05-2022\ficha2_ex1\ficha2_ex1\obj\Debug\net5.0\ficha2_ex1.genruntimeconfig.cache
+C:\Users\diogommarques\Desktop\ipca\POO\trabalhos\16-05-2022\ficha2_ex1\ficha2_ex1\obj\Debug\net5.0\ref\ficha2_ex1.dll
